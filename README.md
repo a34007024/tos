@@ -1,5 +1,8 @@
 # tos
 
+# GG LUA語法官網參考:
++ https://gameguardian.net/help/classgg.html
+
 # 自己找數據教學:
 + https://apk.tw/thread-888128-1-1.html
 + 先找個模擬器 安裝GG 之後多複製幾個之後尋找前幾版的數據 並找找他附近有沒有幾個都固定的數據
